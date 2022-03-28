@@ -1,0 +1,2 @@
+- name: GitHub raw url
+  uses: ActionCloud/github-raw-url@v1
